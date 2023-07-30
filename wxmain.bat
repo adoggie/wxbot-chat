@@ -1,0 +1,2 @@
+python wxmain.py
+pause
